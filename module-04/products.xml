@@ -26,7 +26,7 @@
     <productName>Piggy Snuggle Basket</productName>
     <manufacturer id="acme">ACME</manufacturer>
     <prices>
-      <price>US$17.50</price>
+      <price>US$17.50</price> 
       <price>CAD$21.96</price>
       <price>&#8364;13.03</price>
     </prices>
